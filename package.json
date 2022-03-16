@@ -9,7 +9,7 @@
   "author": "Santiago Pintus",
   "license": "MIT",
   "dependencies": {
-    "firebase": "^9.6.0",
-    "firebase-admin": "^10.0.0"
+    "firebase": "",
+    "firebase-admin": ""
   }
 }
